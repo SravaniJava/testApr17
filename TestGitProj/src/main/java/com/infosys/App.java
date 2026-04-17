@@ -12,6 +12,5 @@ public class App
         System.out.println("this is my app today");
         System.out.println("this is added from sravani's branch");
         System.out.println("this is added from main branch");
-        System.out.println("this line is added from main branch");
     }
 }
